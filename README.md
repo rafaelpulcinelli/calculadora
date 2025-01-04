@@ -3,8 +3,8 @@
 Este projeto consiste em uma calculadora interativa desenvolvida em Flutter para a **Atividade 3** do curso de **Desenvolvimento Web**. 
 
 ## Acesse a página e o código 
-- Link página web: 
-Para acessar o código do projeto, abra a pasta "lib" e "main.dart".
+- Link página web: https://rafaelpulcinelli.github.io/calculadora
+- Para acessar o código do projeto, abra a pasta "lib" e "main.dart".
 
 ## 📋 Descrição
 O aplicativo é uma calculadora interativa que permite realizar operações matemáticas básicas como soma, subtração, multiplicação e divisão, além de limpar a expressão e calcular o resultado. A interface foi estilizada com botões personalizados, além de utilizar `GridView` para a disposição dos botões de maneira prática e organizada.
