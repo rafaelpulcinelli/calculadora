@@ -1,6 +1,6 @@
 # Calculadora Flutter  
-## Atividade 2 - Disciplina de Desenvolvimento Web
-Este projeto consiste em um aplicativo interativo desenvolvido em Flutter para a **Atividade 2** do curso de **Desenvolvimento Web**. 
+## Atividade 3 - Disciplina de Desenvolvimento Web
+Este projeto consiste em uma calculadora interativa desenvolvida em Flutter para a **Atividade 3** do curso de **Desenvolvimento Web**. 
 
 ## Acesse a página e o código 
 - Link página web: 
